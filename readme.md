@@ -166,7 +166,7 @@ Por exemplo, é possível colocar vários resumos em sequência (extraídos com 
   Agora, aguarde a inserção dos resumos e dos textos de referência antes de redigir o artigo final.
 ```
 
-Alguns assistentes, como ChatGPT, Gemini e Perplexity, possuem o recurso "Canvas" ou "Pages". Ao se ativar esse recurso, o texto produzido será exibido em uma parte lateral, que funciona como um editor de texto, você poderá alterar, cortar e fazer ajustes. Além disso, conforme o assistente utilizado, é possível selecionar uma determinada parte do texto e pedir ações como ampliar, reduzir, traduzir, transformar em tabela, criar bullets, entre outras.
+Alguns assistentes, como ChatGPT, Gemini e Perplexity, possuem o recurso "Canvas" ou "Pages". Ao se ativar esse recurso, o texto produzido será exibido em uma parte lateral, que funciona como um editor de texto, você poderá alterar, cortar e fazer ajustes. Além disso, conforme o assistente utilizado, é possível selecionar uma determinada parte do texto e pedir ações como ampliar, reduzir, corrigir, traduzir, transformar em tabela, criar bullets, entre outras. Isso vale, obviamente, para qualquer idioma.
 
 Pessoalmente, quando uso recursos desse tipo, eu prefiro ir construindo o texto aos poucos. Ou seja, en vez de usar um prompt como o citado acima, eu abro um canvas vazio, crio as seções que me interessam manualmente e vou pedindo ajuda para a IA em cada etapa. Isso me dá mais controle do texto final. Mas é uma questão de estilo pessoal.
 
