@@ -2,7 +2,7 @@
 
 Esse texto contém a descrição de diversos recursos para usar a inteligência artificial na pesquisa e escrita científica. Contém desde o uso de assistentes e agentes de IA, até avançados recursos de programação em Python.
 
-*Aviso importante: as orientações a seguir têm o objetivo de apoiar o pesquisador na elaboração de seus artigos científicos. Não dispensam, todavia, a leitura cuidadosa das regras de publicação de cada revista, algumas possuem restrições severas para o uso da IA. Além disso, esse texto rejeita fortemente qualquer iniciativa que estimule plágio ou violação de direitos autorais.*
+***Aviso importante:** as orientações a seguir têm o objetivo de apoiar estudantes e pesquisadores na elaboração de suas publicações científicas. Não dispensam, todavia, a leitura cuidadosa das regras de publicação de cada revista e de cada instituição, algumas possuem restrições severas para o uso da IA. Além disso, esse texto rejeita fortemente qualquer iniciativa que estimule plágio ou violação de direitos autorais.*
 
 ## Zotero
 
@@ -208,6 +208,7 @@ Scripts de Python podem criar fluxos automatizados completos para a redação de
 Esse [script](zotero/write_zotero.ipynb) mostra uma exemplo de como elaborar um texto completo usando uma coleção da Zotero.
 
 ---
+
 # Para seguir
 
 Profa. Fernanda
