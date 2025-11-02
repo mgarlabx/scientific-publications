@@ -41,6 +41,8 @@ Os assistentes de IA (ChatGPT, Gemini, etc.) permitem realizar buscas de publica
 - Alucinação tipo 2: a URL existe, mas remete a outra publicação.
 - Alucinação tipo 3: a URL existe, aponta para a publicação correta, mas o texto não sustenta a menção.
 
+Esses tipos de alucinação implicam numa criteriosa revisão das referências e links gerados.
+
 O recurso "Deep Research", presente na maioria dos assistentes, reduz essas alucinações, mas ainda assim não as elimina. Alguns assistentes, como o [Perplexity](https://www.perplexity.ai/), estão mais estruturados para fornecer resultados mais consistentes.
 
 ## MCPs
