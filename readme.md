@@ -60,11 +60,11 @@ Além deles, é possível instalar outros como:
 
 Muitos agentes de IA tem surgido, com a promessa de realizar buscas mais seguras de publicações científicas, tais como:
 
-[AnswerThis](https://answerthis.io)
-[Borium](https://www.bohrium.com)
-[Elicit](https://elicit.com)
-[Scispace](https://scispace.com) - esse tem integração com a Zotero.
-[Scite](https://scite.ai)
+- [AnswerThis](https://answerthis.io)
+- [Borium](https://www.bohrium.com)
+- [Elicit](https://elicit.com)
+- [Scispace](https://scispace.com) - esse tem integração com a Zotero.
+- [Scite](https://scite.ai)
 
 Alguns performam muito bem, mas todos são pagos, com planos gratuitos de acesso limitado.
 
