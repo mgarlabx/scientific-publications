@@ -119,7 +119,7 @@ O uso de APIs permitem resgatar artigos específicos, criando possíveis automa�
 - [Crossref](read/read_crossref.ipynb)
   A API do Crossref (não necessita de chave) também permite baixar um artigo específico, porém a partir de seu DOI (Digital Object Identifier). É uma API mais detalhada que a do Newspaper, extraindo informações mais detalhadas do artigo, diretamente da base de dados da própria Crossref.
 
-Esses scripts mostram apenas o acesso a um artigo, mas se forem combinados com os scripts de buscas mencionados anteriormente, podem criar interessantes fluxos de automação. Por exemplo, um script de busca encontra uma lista de artigos, um segundo script extrai o resumo de cada um e um terceiro, usando um LLM, faz uma resumo completo. Isso pode ser automatiza e, por exemplo, rodar semanalmente, permitindo ao pesquisador receber um relatório atualizado de tudo que está saindo em sua área.
+Esses scripts mostram apenas o acesso a um artigo, mas se forem combinados com os scripts de buscas mencionados anteriormente, podem criar interessantes fluxos de automação. Por exemplo, um script de busca encontra uma lista de artigos, um segundo script extrai o resumo de cada um e um terceiro, usando um LLM, faz uma resumo completo. Isso pode ser automatizado e, por exemplo, rodar semanalmente, permitindo ao pesquisador receber um relatório atualizado de tudo que está saindo em sua área.
 
 O mesmo pode ser feito com a API da Zotero. Por exemplo, o pesquisador navega em diversos artigos e faz a sua seleção própria em uma coleção da Zotero. Depois, um script acessa essa coleção, recupera o DOI de cada uma e usando a Crossref faz a leitura e um resumo completo. Se o resumo estiver disponível na própria Zotero, nem será necessário acessar a Crossref. Veja nessa [script](zotero/summarize_zotero.ipynb) um exemplo de como fazer isso.
 
@@ -168,7 +168,7 @@ Por exemplo, é possível colocar vários resumos em sequência (extraídos com 
 
 Alguns assistentes, como ChatGPT, Gemini e Perplexity, possuem o recurso "Canvas" ou "Pages". Ao se ativar esse recurso, o texto produzido será exibido em uma parte lateral, que funciona como um editor de texto, você poderá alterar, cortar e fazer ajustes. Além disso, conforme o assistente utilizado, é possível selecionar uma determinada parte do texto e pedir ações como ampliar, reduzir, traduzir, transformar em tabela, criar bullets, entre outras.
 
-Pessoalmente, quando uso recursos desse tipo, eu prefiro ir construindo o texto aos poucos. Ou seja, ao invés de usar um prompt como o citado acima, eu abro um canvas vazio, crio as seções que me interessam manualmente e vou pedindo ajuda para a IA em cada etapa. Isso me dá mais controle do texto final. Mas é uma questão de estilo pessoal.
+Pessoalmente, quando uso recursos desse tipo, eu prefiro ir construindo o texto aos poucos. Ou seja, en vez de usar um prompt como o citado acima, eu abro um canvas vazio, crio as seções que me interessam manualmente e vou pedindo ajuda para a IA em cada etapa. Isso me dá mais controle do texto final. Mas é uma questão de estilo pessoal.
 
 ## Editores de texto
 
