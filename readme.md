@@ -215,6 +215,7 @@ Esse [script](zotero/write_zotero.ipynb) mostra uma exemplo de como elaborar um 
 
 Profa. Fernanda
 [https://www.instagram.com/pesquisanapratica](https://www.instagram.com/pesquisanapratica)
+[https://www.facebook.com/profile.php?id=100063797785068](https://www.facebook.com/profile.php?id=100063797785068)
 
 Andy Stapleton
 [https://www.youtube.com/@DrAndyStapleton](https://www.youtube.com/@DrAndyStapleton)
