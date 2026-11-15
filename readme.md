@@ -200,6 +200,7 @@ Alguns agentes de IA estão especializados na detecção, tanto de plágio, quan
 Já outros agentes são especializados em deixar os textos mais "humanizados", supostamente sem a impressão de terem sido gerados por IA. Exemplos:
 
 - [Undetectable](https://undetectable.ai)
+- [HumanPen](https://humanpen.net/) - Reescrita e tradução de documentos; usa créditos e oferece 100 gratuitos no cadastro.
 - [Phrasly](https://phrasly.ai)
 - [Humanize](http://humanizeai.pro)
 
